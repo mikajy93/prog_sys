@@ -1,0 +1,61 @@
+[ {
+  "ID" : "1",
+  "MODEL" : "MODELX",
+  "MARQUE" : "TESLA",
+  "MONTANT" : "79999.99",
+  "_index" : 0
+}, {
+  "ID" : "2",
+  "MODEL" : "CIVIC",
+  "MARQUE" : "HONDA",
+  "MONTANT" : "22000.0",
+  "_index" : 1
+}, {
+  "ID" : "3",
+  "MODEL" : "COROLLA",
+  "MARQUE" : "TOYOTA",
+  "MONTANT" : "25000.5",
+  "_index" : 2
+}, {
+  "ID" : "4",
+  "MODEL" : "MUSTANG",
+  "MARQUE" : "FORD",
+  "MONTANT" : "55000.0",
+  "_index" : 3
+}, {
+  "ID" : "5",
+  "MODEL" : "911 CARRERA",
+  "MARQUE" : "PORSCHE",
+  "MONTANT" : "120000.75",
+  "_index" : 4
+}, {
+  "ID" : "6",
+  "MODEL" : "I3",
+  "MARQUE" : "BMW",
+  "MONTANT" : "45000.0",
+  "_index" : 5
+}, {
+  "ID" : "7",
+  "MODEL" : "LEAF",
+  "MARQUE" : "NISSAN",
+  "MONTANT" : "30000.99",
+  "_index" : 6
+}, {
+  "ID" : "8",
+  "MODEL" : "MODEL 3",
+  "MARQUE" : "TESLA",
+  "MONTANT" : "39999.99",
+  "_index" : 7
+}, {
+  "ID" : "9",
+  "MODEL" : "A6",
+  "MARQUE" : "AUDI",
+  "MONTANT" : "60000.0",
+  "_index" : 8
+}, {
+  "ID" : "10",
+  "MODEL" : "CX-5",
+  "MARQUE" : "MAZDA",
+  "MONTANT" : "35000.49",
+  "_index" : 9
+} ]

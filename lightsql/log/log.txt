@@ -1,0 +1,13 @@
+[2024-12-22 20:48:35] Query executed: show databases
+[2024-12-22 20:48:42] Query executed: create database cooperative 
+[2024-12-22 20:51:09] Query executed: create table vehicle (id int, model varchar,marque varchar,montant double)
+[2024-12-22 20:51:29] Query executed: use cooperative 
+[2024-12-22 20:51:32] Query executed: show tables
+[2024-12-22 20:51:52] Query executed: create table vehicle (id int, model varchar,marque varchar,montant double)
+[2024-12-22 20:52:04] Query executed: show tables
+[2024-12-22 20:52:54] Query executed: create table vehicle (id int, model varchar,marque varchar,montant double)
+[2024-12-22 20:53:41] Query executed: select * from vehicle
+[2024-12-22 20:54:09] Query executed: select * from vehicle
+[2024-12-22 21:50:43] Query executed: show databases
+[2024-12-22 21:52:06] Query executed: show databases
+[2024-12-22 21:52:12] Query executed: create database mom

@@ -1,0 +1,3 @@
+# Fichier de configuration des bases
+3000,original,./lightsql/db
+3001,replica,./lightsql/replica
